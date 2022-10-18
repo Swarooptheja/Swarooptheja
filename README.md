@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Theja Swaroop</h1>
 <h3 align="center">A passionate Full Stack Web developer</h3>
-<img  align="right" width="500px" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w911" alt="name"/>
+<img  align="right" width="400px" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w911" alt="name"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaroooptheja&label=Profile%20views&color=0e75b6&style=flat" alt="swaroooptheja" /> </p>
 
