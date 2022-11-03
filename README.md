@@ -31,4 +31,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swaroooptheja&" alt="swaroooptheja" /></p>
 
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=swarooptheja)](https://github.com/swarooptheja/github-readme-stats)
