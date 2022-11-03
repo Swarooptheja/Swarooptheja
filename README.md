@@ -28,16 +28,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarooptheja&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarooptheja&layout=compact)](https://github.com/swarooptheja/github-readme-stats)
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=swarooptheja&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=swarooptheja&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=swarooptheja&show_icons=true" />
-</picture>
 
 
