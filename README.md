@@ -35,3 +35,5 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=swarooptheja)](https://github.com/swarooptheja/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarooptheja&layout=compact)](https://github.com/swarooptheja/github-readme-stats)
 ![swarooptheja's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarooptheja&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarooptheja&show_icons=true&theme=radical)
