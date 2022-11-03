@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Redux, TypeScript, nodeJs, MongoDB, express**
 
-- 👨‍💻 All of my projects are available at [Portfolio](Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio](https://swarooptheja.github.io/)
 
 - 💬 Ask me about **MERN Stack**
 
