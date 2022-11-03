@@ -29,6 +29,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swaroooptheja&show_icons=true&locale=en" alt="swaroooptheja" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swaroooptheja&" alt="swaroooptheja" /></p>
+[![Swarooptheja's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarooptheja)](https://github.com/swarooptheja/github-readme-stats)
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=swarooptheja)](https://github.com/swarooptheja/github-readme-stats)
