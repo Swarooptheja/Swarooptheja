@@ -13,7 +13,9 @@ in remote collaboration.</p>
 <img  align="right" width="400px" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w911" alt="name"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaroooptheja&label=Profile%20views&color=0e75b6&style=flat" alt="swaroooptheja" /> </p>
-
+<div>
+<img src="https://camo.githubusercontent.com/5930c60a72af16615165398649105b692092b313760abcc607f9147af2fe020d/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d76616973686e6176696167726177613132" alt=""/>
+</div>
 - 🌱 I’m currently learning **Redux, TypeScript, nodeJs, MongoDB, express**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://swarooptheja.github.io/)
@@ -24,9 +26,7 @@ in remote collaboration.</p>
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NDlDVTUhEjf4quPFjS6bshmHNXHNkq0d/view?usp=sharing)
 
-<div>
-<img src="https://camo.githubusercontent.com/5930c60a72af16615165398649105b692092b313760abcc607f9147af2fe020d/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d76616973686e6176696167726177613132" alt=""/>
-</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
