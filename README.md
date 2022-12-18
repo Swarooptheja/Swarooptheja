@@ -24,6 +24,10 @@ in remote collaboration.</p>
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NDlDVTUhEjf4quPFjS6bshmHNXHNkq0d/view?usp=sharing)
 
+<div>
+<img src="https://camo.githubusercontent.com/5930c60a72af16615165398649105b692092b313760abcc607f9147af2fe020d/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d76616973686e6176696167726177613132" alt=""/>
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/theja swaroop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theja swaroop" height="30" width="40" /></a>
@@ -36,21 +40,8 @@ in remote collaboration.</p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swarooptheja&show_icons=true&theme=gruvbox)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swarooptheja&layout=compact)](https://github.com/swarooptheja/github-readme-stats)
 
-<div>
-<img src="https://camo.githubusercontent.com/5930c60a72af16615165398649105b692092b313760abcc607f9147af2fe020d/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d76616973686e6176696167726177613132" alt=""/>
-</div>
-<div>
-<img src="https://camo.githubusercontent.com/5930c60a72af16615165398649105b692092b313760abcc607f9147af2fe020d/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d76616973686e6176696167726177613132" alt=""/>
-</div>
-<div>
-<img src="https://camo.githubusercontent.com/5930c60a72af16615165398649105b692092b313760abcc607f9147af2fe020d/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d76616973686e6176696167726177613132" alt=""/>
-</div>
-<div>
-<img src="https://camo.githubusercontent.com/5930c60a72af16615165398649105b692092b313760abcc607f9147af2fe020d/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d76616973686e6176696167726177613132" alt=""/>
-</div>
-<div>
-<img src="https://camo.githubusercontent.com/5930c60a72af16615165398649105b692092b313760abcc607f9147af2fe020d/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d76616973686e6176696167726177613132" alt=""/>
-</div>
+
+
 
 
 
