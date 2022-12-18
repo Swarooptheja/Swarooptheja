@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **swarooptheja809@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NDlDVTUhEjf4quPFjS6bshmHNXHNkq0d/view?usp=sharing](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1NDlDVTUhEjf4quPFjS6bshmHNXHNkq0d/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
