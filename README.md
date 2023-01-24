@@ -1,4 +1,4 @@
-<img src="(https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif)" width="1000px"/>
+<img src="https://raw.githubusercontent.com/NdekoCode/NdekoCode/main/assets/img/banner-fullstack.gif" width="1000px"/>
 
 <h1 align="center">Hi 👋, I'm Theja Swaroop</h1>
 <h3 text-align="left">A passionate Full Stack Web developer</h3>
